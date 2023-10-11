@@ -1,0 +1,30 @@
+{
+  "image": {
+    "type": "String"
+  },
+  "name": {
+    "type": "String"
+  },
+  "mobile": {
+    "type": "String"
+  },
+  "email": {
+    "type": "String"
+  },
+  "password": {
+    "type": "String"
+  },
+  "address": {
+    "type": "String"
+  },
+  "country": {
+    "type": "String"
+  },
+  "about": {
+    "type": "String"
+  },
+  "customer_id": {
+    "type": "String",
+    "default": null
+  }
+}

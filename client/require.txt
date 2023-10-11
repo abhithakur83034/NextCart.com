@@ -1,0 +1,33 @@
+In Frontend
+.env setup={
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY="your STRIPE_PUBLISHABLE_KEY" 
+GOOGLE_ID="your GOOGLE_ID"
+GOOGLE_SECRET="your GOOGLE_SECRET"
+SECRET="nay string"
+NEXTAUTH_URL="app homepage url"
+}
+
+1: open cmd in root dir of client => npm i 
+2: npm run dev
+3: goto browser : localhost:3000
+
+
+=============================================================================================================================================
+
+In Backend
+
+1: open cmd in root dir of server => npm i 
+2: nodemon index.js
+
+
+
+.env setup={
+LOCAL_DATABASE = "your db"
+ADMIN_EMAIL="email"
+ADMIN_PASSWORD = "password"
+SESSION_SECRET="any string"
+SECRET_KEY= "any string"
+STRIPE_SECRET_KEY="your STRIPE_SECRET_KEY"
+EMAIL_SMTP='your smtp email'
+PASSWORD_SMTP="smtp password"
+}

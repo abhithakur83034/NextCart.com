@@ -1,0 +1,38 @@
+/* styles.css */
+.layout {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .contact-container {
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  .contact-heading {
+    font-size: 36px;
+  }
+  
+  .contact-container p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .contact-details {
+    margin-top: 20px;
+  }
+  
+  .contact-details p {
+    margin-bottom: 10px;
+  }
+  
+  .contact-details a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-details a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,24 @@
+.nav{
+    background: rgb(2,0,36);
+    background:linear-gradient(140deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 35%, rgba(0,212,255,1) 100%) ;
+}
+.navs{
+    background: rgb(2,0,36);
+    background:linear-gradient(240deg, rgba(0,212,255,1) 0%, rgba(0,0,0,1) 35%, rgba(2,0,36,1) 100%) ;
+}
+.decoration{
+    text-decoration: none;
+    margin: 5px;
+    color: white;
+}
+
+.decoration:hover{
+    color:red;
+}
+
+
+.bar{
+    /* position:inherit; */
+}
+ 
+  

@@ -1,0 +1,145 @@
+.colr {
+  color: white;
+  background: rgb(224, 98, 153);
+  background: linear-gradient(
+    -287deg,
+    rgba(364, 84, 132, 1),
+    rgba(255, 255, 0, 0.3)
+  );
+  background-size: 200% 200%;
+  transition: background-position 0.5s ease;
+}
+
+.colr:hover {
+  background-position: 100% 90%;
+  color: black;
+}
+
+.colrs {
+  background: rgba(0, 212, 255, 1);
+  background: linear-gradient(
+    140deg,
+    rgba(0, 212, 255, 1),
+    rgba(255, 255, 255, 1)
+  );
+  color: white;
+  background-size: 200% 200%;
+  transition: background-position 0.5s ease, color 0.5s ease;
+}
+
+.colrs:hover {
+  background-position: 100% 80%;
+  color: black;
+}
+
+.colro {
+  color: white;
+  background: linear-gradient(
+    45deg,
+    rgba(242, 116, 106, 3),
+    rgba(255, 255, 255, 1)
+  );
+  background-size: 200% 200%;
+  transition: background-position 0.5s ease, color 0.5s ease;
+}
+
+.colro:hover {
+  background-position: 100% 100%;
+  color: #333;
+}
+
+.colros {
+  color: white;
+  background: linear-gradient(
+    75deg,
+    rgba(166, 146, 235, 1),
+    rgba(255, 255, 255, 0.9)
+  );
+  background-size: 200% 200%;
+  transition: background-position 0.5s ease, color 0.5s ease;
+}
+
+.colros:hover {
+  background-position: 100% 100%;
+  color: #333;
+}
+
+.Chart {
+  height: 350px;
+  width: 350px;
+}
+
+.colr-card {
+  color: white;
+  background: rgb(224, 98, 153);
+  background: linear-gradient(
+    -287deg,
+    rgba(249, 194, 101, 1),
+    rgba(255, 255, 255, 0.9)
+  );
+  background-size: 200% 200%;
+  transition: background-position 0.5s ease;
+}
+
+.colr-card:hover {
+  background-position: 100% 90%;
+  color: black;
+}
+
+.colr-cards {
+  color: white;
+  background: rgb(224, 98, 153);
+  background: linear-gradient(
+    -287deg,
+    rgba(180, 125, 229, 0.9),
+    rgba(255, 255, 255, 0.9)
+  );
+  background-size: 200% 200%;
+  transition: background-position 0.5s ease;
+}
+
+.colr-cards:hover {
+  background-position: 100% 90%;
+  color: black;
+}
+
+.colrs-card {
+  color: white;
+  background: rgb(224, 98, 153);
+  background: linear-gradient(
+    -287deg,
+    rgba(8, 84, 12, 1),
+    rgba(255, 255, 255, 0.9)
+  );
+  background-size: 200% 200%;
+  transition: background-position 0.5s ease;
+}
+
+.colrs-card:hover {
+  background-position: 100% 90%;
+  color: black;
+}
+
+.allback {
+  background-color: black;
+  color: white;
+}
+
+
+.n-ro{
+    color: white;
+    background: rgb(224, 98, 153);
+    background: linear-gradient(
+      -287deg,
+       rgba(364, 84, 132, 1),
+       rgba(238, 7, 115, 0.302)
+    );
+    background-size: 200% 200%;
+    transition: background-position 0.5s ease;  
+}
+
+
+.n-ro:hover {
+    background-position: 100% 90%;
+    color: black;
+  }

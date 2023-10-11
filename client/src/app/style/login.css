@@ -1,0 +1,20 @@
+.bg-img {
+    background-image: url("https://www.iemed.org/wp-content/uploads/2020/11/The-Silence-of-the-Mountains-Pic-750x432.jpg");
+    height: 110vh;
+    background-position: center;
+    background-size: cover;
+}
+.bgs-img {
+    background-image: url("https://www.iemed.org/wp-content/uploads/2020/11/The-Silence-of-the-Mountains-Pic-750x432.jpg");
+    background-size: cover;
+}
+
+
+.deco{
+    text-decoration: none;
+    color: darkblue;
+}
+
+.colr{
+    color: royalblue;
+}

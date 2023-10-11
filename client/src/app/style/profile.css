@@ -1,0 +1,12 @@
+.stl{
+    text-decoration: none;
+    font-size: 30px;
+    color:white;
+}
+.stl:hover{
+    color:"red"
+}
+
+.head{
+    color:darkblue;
+}

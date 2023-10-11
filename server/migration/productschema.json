@@ -1,0 +1,39 @@
+{
+  "image": {
+    "type": "String"
+  },
+  "name": {
+    "type": "String"
+  },
+  "price": {
+    "type": "Number"
+  },
+  "strike": {
+    "type": "Number"
+  },
+  "quality": {
+    "type": "String"
+  },
+  "role": {
+    "type": "String"
+  },
+  "subcategory": {
+    "type": "String"
+  },
+  "size": {
+    "type": "Array"
+  },
+  "color": {
+    "type": "String"
+  },
+  "brand": {
+    "type": "String"
+  },
+  "about": {
+    "type": "String"
+  },
+  "quantity": {
+    "type": "String",
+    "default": 1
+  }
+}

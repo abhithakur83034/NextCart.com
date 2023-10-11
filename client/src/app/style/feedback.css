@@ -1,0 +1,10 @@
+.fb-rw{
+  text-align: center;
+  font-size: x-large;
+}
+
+.fb-cl {
+  border: 2px solid grey;
+  border-radius: 15px;
+  margin-bottom: 3px;
+}
